@@ -521,4 +521,25 @@
   unlisted: false
   links:
     - name: Homepage
-      link: https://www.portal.network/
+      link: http://classicdao.io/
+# - title: ClassicDAO
+#   date: 2022-08-10
+#   type: Finance
+#   image: ./images/ClassicDao.jpg
+#   author: CryptoGaralo
+#   description: ClassicDAO is the first DAO on Ethereum Classic in over 6 years with governance. ClassicDAO has the first staking seen on the Ethereum Classic Chain ever. ClassicDAO aims to fund future projects on Ethereum Classic and grow it as a whole.
+#   links:
+#     - name: Launch App
+#       link: https://ropsten.classicdao.one/
+#     - name: Website
+#       link: http://classicdao.io/
+#       icon: home
+#     - name: Github
+#       link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+#       icon: github
+#     - name: Twitter
+#       link: https://twitter.com/ClassicDao
+#       icon: twitter
+#     - name: Telegram
+#       link: t.me/ETCClassicDAO
+#       icon: telegram
